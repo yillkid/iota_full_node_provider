@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+{% block content %}
+
+<html>
+<head>  
+  <title>IOTA public node manager</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="col-md-6 col-md-offset-2">
+            <form class="text-left border border-light p-5" method="get" action="top_apis">
+		<p>Parameter : api
+		<li>0 : MilestoneStartIndex
+		<li>1 : Duration of send_transfer
+	        <p><input type="text" name="api" class="form-control sm-2" value="0">
+		<p>Parameter : 
+		<li>counts : node counts of response
+	        <p><input type="counts" name="counts" class="form-control sm-2" value="1">
+	        <br>
+                <input type="submit" name="Submit">
+	    </form>
+	</div>
+    </div>
+</body>
+</html>
+
+{% endblock %}
+
