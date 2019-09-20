@@ -1,103 +1,100 @@
-{'url': 'https://pow.iota.community:443', 'start_index': 1050001}
-{'url': 'https://nodes.iota.cafe:443', 'start_index': 1050001}
-{'url': 'https://perma.iota.partners:443', 'start_index': 1050001}
-{'url': 'https://node.deviceproof.org:443', 'start_index': 1050381}
-{'url': 'https://hanspetzersnode.org:14267', 'start_index': 1081808}
-{'url': 'https://nodes.tangled.it:443', 'start_index': 1089936}
-{'url': 'http://5.189.135.61:14265', 'start_index': 1101221}
-{'url': 'http://173.249.16.242:14265', 'start_index': 1101906}
-{'url': 'http://159.69.116.60:14265', 'start_index': 1103400}
-{'url': 'http://116.202.20.58:14265', 'start_index': 1103400}
-{'url': 'http://173.249.29.98:14265', 'start_index': 1104135}
-{'url': 'https://novatek.no:14267', 'start_index': 1109104}
-{'url': 'https://www.iotaqubic.us:443', 'start_index': 1109295}
-{'url': 'http://118.190.13.189:14265', 'start_index': 1112610}
-{'url': 'http://iotawallet.tobg.com.de:14265', 'start_index': 1121996}
-{'url': 'https://wallet2.iota.town:443', 'start_index': 1129873}
-{'url': 'http://5.189.188.243:14265', 'start_index': 1130886}
-{'url': 'http://5.189.133.22:14265', 'start_index': 1130920}
-{'url': 'http://node.iotadev.org:14265', 'start_index': 1130920}
-{'url': 'http://173.249.16.55:14265', 'start_index': 1139366}
-{'url': 'http://speedynode.ddns.net:14265', 'start_index': 1140048}
-{'url': 'https://papa.iota.family:14267', 'start_index': 1140073}
-{'url': 'http://185.244.195.45:14265', 'start_index': 1140079}
-{'url': 'https://iotatn.cloud:14267', 'start_index': 1140086}
-{'url': 'http://174.141.204.79:14265', 'start_index': 1140090}
-{'url': 'https://iotanode.world:14267', 'start_index': 1140125}
-{'url': 'http://78.46.254.167:14265', 'start_index': 1140125}
-{'url': 'https://nod3.theshock.de:443', 'start_index': 1140127}
-{'url': 'http://node01.iotatoken.nl:14265', 'start_index': 1140127}
-{'url': 'http://node05.iotatoken.nl:14265', 'start_index': 1140127}
-{'url': 'http://185.244.194.231:14265', 'start_index': 1140127}
-{'url': 'http://iota.antonionardella.eu:14265', 'start_index': 1140127}
-{'url': 'http://node02.iotatoken.nl:14265', 'start_index': 1140128}
-{'url': 'http://212.47.242.90:14265', 'start_index': 1140128}
-{'url': 'http://173.249.17.230:14265', 'start_index': 1140129}
-{'url': 'https://dyn.tangle-nodes.com:443', 'start_index': 1140130}
-{'url': 'https://node01.gubiota.ch:443', 'start_index': 1140130}
-{'url': 'http://173.249.43.185:14265', 'start_index': 1140130}
-{'url': 'http://173.249.50.233:14265', 'start_index': 1140130}
-{'url': 'https://node02.gubiota.ch:443', 'start_index': 1140130}
-{'url': 'http://89.163.242.213:14265', 'start_index': 1140130}
-{'url': 'https://ultranode.iotatoken.nl:443', 'start_index': 1140130}
-{'url': 'https://contabo02.pinter-net.at:14267', 'start_index': 1140130}
-{'url': 'http://167.86.119.89:14265', 'start_index': 1140130}
-{'url': 'http://167.86.121.248:14265', 'start_index': 1140130}
-{'url': 'http://167.86.110.209:14265', 'start_index': 1140131}
-{'url': 'http://node06.iotatoken.nl:14265', 'start_index': 1140131}
-{'url': 'http://85.214.106.245:14265', 'start_index': 1140131}
-{'url': 'http://mandelhost.de:14265', 'start_index': 1140132}
-{'url': 'http://5.189.141.225:14265', 'start_index': 1140132}
-{'url': 'http://173.212.200.186:14265', 'start_index': 1140134}
-{'url': 'http://159.69.54.69:14265', 'start_index': 1140140}
-{'url': 'http://node03.iotatoken.nl:14265', 'start_index': 1140140}
-{'url': 'http://node1.puyuma.org:14265', 'start_index': 1140142}
-{'url': 'https://v22017125353157610.bestsrv.de:14267', 'start_index': 1140146}
-{'url': 'http://node10.puyuma.org:14265', 'start_index': 1140149}
-{'url': 'https://wallet1.iota.town:443', 'start_index': 1144652}
-{'url': 'http://163.172.70.64:14265', 'start_index': 1147002}
-{'url': 'https://piota-node.com:443', 'start_index': 1149720}
-{'url': 'http://173.249.23.161:14265', 'start_index': 1150025}
-{'url': 'http://173.249.17.151:14265', 'start_index': 1150027}
-{'url': 'http://207.180.202.219:14265', 'start_index': 1150029}
-{'url': 'http://31.214.240.100:14265', 'start_index': 1150029}
-{'url': 'https://iota1.chain.garden:443', 'start_index': 1150031}
-{'url': 'http://iota-fn01.sairai.de:14265', 'start_index': 1150032}
-{'url': 'http://131.112.180.45:14265', 'start_index': 1150032}
-{'url': 'https://iota.chain.garden:443', 'start_index': 1150033}
-{'url': 'http://5.189.153.113:14265', 'start_index': 1150035}
-{'url': 'http://94.16.112.202:14265', 'start_index': 1150036}
-{'url': 'http://144.76.186.185:14265', 'start_index': 1150042}
-{'url': 'http://60.126.208.96:14265', 'start_index': 1150042}
-{'url': 'http://117.102.178.102:14265', 'start_index': 1150045}
-{'url': 'http://117.102.178.100:14265', 'start_index': 1150046}
-{'url': 'https://django.zapto.org:14267', 'start_index': 1152209}
-{'url': 'http://213.136.94.247:14265', 'start_index': 1152635}
-{'url': 'http://tanglenode.de:14265', 'start_index': 1152635}
-{'url': 'http://207.180.252.59:14265', 'start_index': 1155716}
-{'url': 'https://node.vanityfive.de:443', 'start_index': 1155748}
-{'url': 'https://nodes.thetangle.org:443', 'start_index': 1157888}
-{'url': 'https://trinity.iota-tangle.io:14265', 'start_index': 1157888}
-{'url': 'http://turbor.ddns.net:14265', 'start_index': 1160104}
-{'url': 'http://213.136.79.161:14265', 'start_index': 1160146}
-{'url': 'http://me2byme2.com:14265', 'start_index': 1160146}
-{'url': 'https://mama.iota.family:14267', 'start_index': 1161149}
-{'url': 'http://185.228.137.166:14265', 'start_index': 1165849}
-{'url': 'http://power.benderiota.com:14265', 'start_index': 1167269}
-{'url': 'http://ower.benderiota.com:14265', 'start_index': 1167269}
-{'url': 'http://mi.benderiota.com:14265', 'start_index': 1167269}
-{'url': 'http://gi.benderiota.com:14265', 'start_index': 1167269}
-{'url': 'http://benderiota.com:14265', 'start_index': 1167269}
-{'url': 'http://i.benderiota.com:14265', 'start_index': 1167269}
-{'url': 'http://ki.benderiota.com:14265', 'start_index': 1167269}
-{'url': 'http://173.249.42.88:14265', 'start_index': 1169528}
-{'url': 'https://node00.gubiota.ch:443', 'start_index': 1169528}
-{'url': 'http://207.180.224.65:14265', 'start_index': 1170128}
-{'url': 'https://node-iota.org:14267', 'start_index': 1170128}
-{'url': 'http://195.201.114.197:14265', 'start_index': 1170149}
-{'url': 'http://167.86.108.113:14265', 'start_index': 1172810}
-{'url': 'https://gewirr.com:14267', 'start_index': 1175150}
-{'url': 'http://node04.iotatoken.nl:14265', 'start_index': 1177130}
-{'url': 'http://193.164.132.144:14265', 'start_index': 1178250}
-{'url': 'https://stirrlink.dyndns.org:14267', 'start_index': 1179370}
-{'url': 'http://85.214.148.21:14265', 'start_index': 1179504}
+{'datetime': '2019-09-20-21-14', 'url': 'https://perma.iota.partners:443', 'start_index': 1050001}
+{'datetime': '2019-09-20-21-15', 'url': 'https://pow.iota.community:443', 'start_index': 1050001}
+{'datetime': '2019-09-20-21-15', 'url': 'https://nodes.iota.cafe:443', 'start_index': 1050001}
+{'datetime': '2019-09-20-21-38', 'url': 'https://node.deviceproof.org:443', 'start_index': 1050381}
+{'datetime': '2019-09-20-21-14', 'url': 'https://hanspetzersnode.org:14267', 'start_index': 1081808}
+{'datetime': '2019-09-20-21-20', 'url': 'https://nodes.tangled.it:443', 'start_index': 1089936}
+{'datetime': '2019-09-20-21-15', 'url': 'http://5.189.135.61:14265', 'start_index': 1101221}
+{'datetime': '2019-09-20-21-15', 'url': 'http://173.249.16.242:14265', 'start_index': 1101906}
+{'datetime': '2019-09-20-21-14', 'url': 'http://159.69.116.60:14265', 'start_index': 1103400}
+{'datetime': '2019-09-20-21-14', 'url': 'http://116.202.20.58:14265', 'start_index': 1103400}
+{'datetime': '2019-09-20-21-22', 'url': 'http://173.249.29.98:14265', 'start_index': 1104135}
+{'datetime': '2019-09-20-21-22', 'url': 'https://novatek.no:14267', 'start_index': 1109104}
+{'datetime': '2019-09-20-21-15', 'url': 'https://www.iotaqubic.us:443', 'start_index': 1109295}
+{'datetime': '2019-09-20-21-22', 'url': 'http://118.190.13.189:14265', 'start_index': 1112610}
+{'datetime': '2019-09-20-21-15', 'url': 'http://iotawallet.tobg.com.de:14265', 'start_index': 1121996}
+{'datetime': '2019-09-20-21-15', 'url': 'https://wallet2.iota.town:443', 'start_index': 1129873}
+{'datetime': '2019-09-20-21-15', 'url': 'http://5.189.133.22:14265', 'start_index': 1131548}
+{'datetime': '2019-09-20-21-15', 'url': 'http://node.iotadev.org:14265', 'start_index': 1131548}
+{'datetime': '2019-09-20-21-15', 'url': 'http://173.249.16.55:14265', 'start_index': 1139366}
+{'datetime': '2019-09-20-21-20', 'url': 'http://speedynode.ddns.net:14265', 'start_index': 1141538}
+{'datetime': '2019-09-20-21-14', 'url': 'http://185.244.195.45:14265', 'start_index': 1141539}
+{'datetime': '2019-09-20-21-20', 'url': 'https://iotatn.cloud:14267', 'start_index': 1141582}
+{'datetime': '2019-09-20-21-22', 'url': 'http://174.141.204.79:14265', 'start_index': 1141590}
+{'datetime': '2019-09-20-21-22', 'url': 'https://papa.iota.family:14267', 'start_index': 1141593}
+{'datetime': '2019-09-20-21-14', 'url': 'http://node02.iotatoken.nl:14265', 'start_index': 1141629}
+{'datetime': '2019-09-20-21-14', 'url': 'http://89.163.242.213:14265', 'start_index': 1141630}
+{'datetime': '2019-09-20-21-14', 'url': 'https://ultranode.iotatoken.nl:443', 'start_index': 1141630}
+{'datetime': '2019-09-20-21-14', 'url': 'http://173.249.43.185:14265', 'start_index': 1141630}
+{'datetime': '2019-09-20-21-14', 'url': 'http://173.249.50.233:14265', 'start_index': 1141630}
+{'datetime': '2019-09-20-21-14', 'url': 'https://node01.gubiota.ch:443', 'start_index': 1141630}
+{'datetime': '2019-09-20-21-14', 'url': 'https://node02.gubiota.ch:443', 'start_index': 1141630}
+{'datetime': '2019-09-20-21-15', 'url': 'http://167.86.119.89:14265', 'start_index': 1141630}
+{'datetime': '2019-09-20-21-15', 'url': 'http://167.86.121.248:14265', 'start_index': 1141630}
+{'datetime': '2019-09-20-21-15', 'url': 'https://contabo02.pinter-net.at:14267', 'start_index': 1141631}
+{'datetime': '2019-09-20-21-15', 'url': 'http://node06.iotatoken.nl:14265', 'start_index': 1141631}
+{'datetime': '2019-09-20-21-15', 'url': 'http://167.86.110.209:14265', 'start_index': 1141631}
+{'datetime': '2019-09-20-21-14', 'url': 'http://mandelhost.de:14265', 'start_index': 1141632}
+{'datetime': '2019-09-20-21-14', 'url': 'http://5.189.141.225:14265', 'start_index': 1141632}
+{'datetime': '2019-09-20-21-15', 'url': 'http://173.249.17.230:14265', 'start_index': 1141632}
+{'datetime': '2019-09-20-21-15', 'url': 'http://78.46.254.167:14265', 'start_index': 1141633}
+{'datetime': '2019-09-20-21-14', 'url': 'http://173.212.200.186:14265', 'start_index': 1141634}
+{'datetime': '2019-09-20-21-15', 'url': 'http://185.244.194.231:14265', 'start_index': 1141634}
+{'datetime': '2019-09-20-21-15', 'url': 'http://iota.antonionardella.eu:14265', 'start_index': 1141634}
+{'datetime': '2019-09-20-21-15', 'url': 'https://iotanode.world:14267', 'start_index': 1141635}
+{'datetime': '2019-09-20-21-15', 'url': 'http://212.47.242.90:14265', 'start_index': 1141636}
+{'datetime': '2019-09-20-21-20', 'url': 'https://v22017125353157610.bestsrv.de:14267', 'start_index': 1141636}
+{'datetime': '2019-09-20-21-15', 'url': 'https://nod3.theshock.de:443', 'start_index': 1141637}
+{'datetime': '2019-09-20-21-15', 'url': 'http://node05.iotatoken.nl:14265', 'start_index': 1141637}
+{'datetime': '2019-09-20-21-15', 'url': 'http://node01.iotatoken.nl:14265', 'start_index': 1141637}
+{'datetime': '2019-09-20-21-15', 'url': 'http://85.214.106.245:14265', 'start_index': 1141638}
+{'datetime': '2019-09-20-21-22', 'url': 'http://node03.iotatoken.nl:14265', 'start_index': 1141640}
+{'datetime': '2019-09-20-21-38', 'url': 'http://node10.puyuma.org:14265', 'start_index': 1141649}
+{'datetime': '2019-09-20-21-38', 'url': 'http://node1.puyuma.org:14265', 'start_index': 1141652}
+{'datetime': '2019-09-20-21-14', 'url': 'https://wallet1.iota.town:443', 'start_index': 1144652}
+{'datetime': '2019-09-20-21-22', 'url': 'http://163.172.70.64:14265', 'start_index': 1147002}
+{'datetime': '2019-09-20-21-15', 'url': 'https://iota1.chain.garden:443', 'start_index': 1151531}
+{'datetime': '2019-09-20-21-15', 'url': 'http://iota-fn01.sairai.de:14265', 'start_index': 1151532}
+{'datetime': '2019-09-20-21-15', 'url': 'https://iota.chain.garden:443', 'start_index': 1151533}
+{'datetime': '2019-09-20-21-15', 'url': 'http://173.249.23.161:14265', 'start_index': 1151535}
+{'datetime': '2019-09-20-21-15', 'url': 'http://117.102.178.102:14265', 'start_index': 1151535}
+{'datetime': '2019-09-20-21-15', 'url': 'http://5.189.153.113:14265', 'start_index': 1151535}
+{'datetime': '2019-09-20-21-20', 'url': 'http://117.102.178.100:14265', 'start_index': 1151536}
+{'datetime': '2019-09-20-21-22', 'url': 'http://94.16.112.202:14265', 'start_index': 1151536}
+{'datetime': '2019-09-20-21-15', 'url': 'http://173.249.17.151:14265', 'start_index': 1151537}
+{'datetime': '2019-09-20-21-15', 'url': 'http://31.214.240.100:14265', 'start_index': 1151537}
+{'datetime': '2019-09-20-21-20', 'url': 'http://144.76.186.185:14265', 'start_index': 1151539}
+{'datetime': '2019-09-20-21-22', 'url': 'http://207.180.202.219:14265', 'start_index': 1151539}
+{'datetime': '2019-09-20-21-22', 'url': 'http://131.112.180.45:14265', 'start_index': 1151542}
+{'datetime': '2019-09-20-21-22', 'url': 'http://60.126.208.96:14265', 'start_index': 1151542}
+{'datetime': '2019-09-20-21-15', 'url': 'https://django.zapto.org:14267', 'start_index': 1152209}
+{'datetime': '2019-09-20-21-14', 'url': 'http://tanglenode.de:14265', 'start_index': 1152635}
+{'datetime': '2019-09-20-21-14', 'url': 'http://213.136.94.247:14265', 'start_index': 1152635}
+{'datetime': '2019-09-20-21-14', 'url': 'http://207.180.252.59:14265', 'start_index': 1155716}
+{'datetime': '2019-09-20-21-20', 'url': 'https://node.vanityfive.de:443', 'start_index': 1155748}
+{'datetime': '2019-09-20-21-15', 'url': 'https://nodes.thetangle.org:443', 'start_index': 1157888}
+{'datetime': '2019-09-20-21-15', 'url': 'https://trinity.iota-tangle.io:14265', 'start_index': 1157888}
+{'datetime': '2019-09-20-21-15', 'url': 'https://dyn.tangle-nodes.com:443', 'start_index': 1160432}
+{'datetime': '2019-09-20-21-15', 'url': 'https://mama.iota.family:14267', 'start_index': 1161149}
+{'datetime': '2019-09-20-21-15', 'url': 'http://turbor.ddns.net:14265', 'start_index': 1161604}
+{'datetime': '2019-09-20-21-20', 'url': 'http://me2byme2.com:14265', 'start_index': 1161636}
+{'datetime': '2019-09-20-21-20', 'url': 'http://213.136.79.161:14265', 'start_index': 1161636}
+{'datetime': '2019-09-20-21-20', 'url': 'http://185.228.137.166:14265', 'start_index': 1165849}
+{'datetime': '2019-09-20-21-25', 'url': 'http://power.benderiota.com:14265', 'start_index': 1167269}
+{'datetime': '2019-09-20-21-27', 'url': 'http://ower.benderiota.com:14265', 'start_index': 1167269}
+{'datetime': '2019-09-20-21-29', 'url': 'http://mi.benderiota.com:14265', 'start_index': 1167269}
+{'datetime': '2019-09-20-21-31', 'url': 'http://gi.benderiota.com:14265', 'start_index': 1167269}
+{'datetime': '2019-09-20-21-33', 'url': 'http://benderiota.com:14265', 'start_index': 1167269}
+{'datetime': '2019-09-20-21-35', 'url': 'http://i.benderiota.com:14265', 'start_index': 1167269}
+{'datetime': '2019-09-20-21-38', 'url': 'http://ki.benderiota.com:14265', 'start_index': 1167269}
+{'datetime': '2019-09-20-21-20', 'url': 'http://173.249.42.88:14265', 'start_index': 1169528}
+{'datetime': '2019-09-20-21-22', 'url': 'https://node00.gubiota.ch:443', 'start_index': 1169528}
+{'datetime': '2019-09-20-21-14', 'url': 'http://207.180.224.65:14265', 'start_index': 1171629}
+{'datetime': '2019-09-20-21-14', 'url': 'https://node-iota.org:14267', 'start_index': 1171629}
+{'datetime': '2019-09-20-21-22', 'url': 'http://195.201.114.197:14265', 'start_index': 1171639}
+{'datetime': '2019-09-20-21-20', 'url': 'http://167.86.108.113:14265', 'start_index': 1172810}
+{'datetime': '2019-09-20-21-22', 'url': 'https://gewirr.com:14267', 'start_index': 1175150}
+{'datetime': '2019-09-20-21-22', 'url': 'http://node04.iotatoken.nl:14265', 'start_index': 1177130}
+{'datetime': '2019-09-20-21-20', 'url': 'http://193.164.132.144:14265', 'start_index': 1178250}
+{'datetime': '2019-09-20-21-22', 'url': 'https://stirrlink.dyndns.org:14267', 'start_index': 1179370}
+{'datetime': '2019-09-20-21-22', 'url': 'http://85.214.148.21:14265', 'start_index': 1179504}

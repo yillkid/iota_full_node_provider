@@ -1,6 +1,6 @@
 import threading
 from flask import Flask, render_template, request
-from apps.job import milestone_start_index, duration_send_transfer
+from apps.jobs import milestone_start_index, duration_send_transfer
 
 app = Flask(__name__)
 
