@@ -1,5 +1,6 @@
 from deps.node_info import get_milestoneStartIndex
 from deps.send_transfer import transfer
+import datetime
 
 def sort_milestone_start_index(list_nodes):
     list_result = []
@@ -13,6 +14,7 @@ def sort_milestone_start_index(list_nodes):
             if milestone_start_index == 0:
                 continue
 
+            new_dict['datetime'] = datetime.datetime.now().strftime("%Y-%m-%d-%H-%M")
             new_dict['url'] = obj.rstrip()
             new_dict['start_index'] = milestone_start_index
 
@@ -39,6 +41,7 @@ def sort_duration_send_transfer(list_nodes):
             if len(hash_txn) != 81:
                 continue
 
+            new_dict['datetime'] = datetime.datetime.now().strftime("%Y-%m-%d-%H-%M")
             new_dict['url'] = obj.rstrip()
             new_dict['duration'] = str(duration)
 
