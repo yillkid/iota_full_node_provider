@@ -64,4 +64,4 @@ def top_apis():
 
     return str(list_logs)
 
-app.run(threaded=True, host = '0.0.0.0', port = 5001)
+app.run(threaded=True, host = '0.0.0.0', port = 5002)
