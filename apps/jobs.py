@@ -1,3 +1,4 @@
+import time
 from apps.public_nodes import load_public_nodes
 from apps.custom_nodes import load_custom_nodes
 from apps.eval import sort_milestone_start_index, sort_duration_send_transfer
@@ -18,6 +19,9 @@ def milestone_start_index():
 
         # Log save
         update_log(list_milestone_start_index, LOG_MILESTONE_START_INDEX)
+
+        # Sleeo
+        time.sleep(43200)
 
     return 0
 
