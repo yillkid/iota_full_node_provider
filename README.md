@@ -14,17 +14,13 @@ the customize list, and user can fetch a sorted node list from the REST API.
 2. python3 server.py
 
 ## Usage
-1. Get IOTA Full-node sort by MilestoneStartIndex (ascending)
+1. Get sorted list
    
-    ```shell $curl <SERVER URL>/milestone_start_index ```
+    - ```shell $curl <SERVER URL>/top_apis?api=<0:MilestoneStartIndex, 1:send_transfer duration>&counts=<response number> ```
+    - Refer `example/request_nodes_by_milestoneindex.py` for detail. 
 
-2. Get IOTA Full-node sort by send_transfer duration (ascending)
-   
-    ```shell $curl <SERVER URL>/duration_send_transfer ```
-
-3. Get sorted list
-   
-    ```shell $curl <SERVER URL>/top_apis?api=<0:MilestoneStartIndex, 1:send_transfer duration>&counts=<response number> ```
+2. Send Transfer
+    - Refer `example/send_transfer.py` for detail. 
 
 ## Demo site
 - [http://node0.puyuma.org:5002](http://node0.puyuma.org:5002)
