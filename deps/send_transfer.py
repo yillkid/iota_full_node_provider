@@ -102,7 +102,7 @@ def send_transaction(node_url, address, tag, messages, values):
         address = Address(address),
         value = values,
         tag = Tag(tag),
-        message =TryteString.from_unicode(messages)
+        message = TryteString.from_string(messages)
     )
 
     propose_bundle.add_transaction(txn_output)
