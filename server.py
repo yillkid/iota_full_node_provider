@@ -1,7 +1,9 @@
 import threading
+import json
 from flask import Flask, render_template, request
 from apps.jobs import milestone_start_index, duration_send_transfer
 from config.config_logging import LOG_MILESTONE_START_INDEX, LOG_DURATION_SEND
+from deps.send_transfer import send_transaction
 
 app = Flask(__name__)
 
@@ -24,6 +26,20 @@ def top_apis():
 
     return str(list_logs)
 
+@app.route('/send_transfer' ,methods=['POST'])
+def send_transfer():
+    if request.method == 'POST':
+        request_data = request.get_data()
+        request_command = json.loads(request_data)
+        node_url = request_command['node_url']
+        address = request_command['address']
+        tag = request_command['tag']
+        messages = request_command['messages']
+        values = request_command['values']
+        hash_boundle = send_transaction(node_url, address, tag, messages, values)
+    
+        return hash_boundle
+
 # Job for fetch and sort milestone start index
 thread_milestone_start_index = threading.Thread(target = milestone_start_index)
 thread_milestone_start_index.start()
@@ -31,7 +47,7 @@ thread_milestone_start_index.start()
 # Job send and sort duration of send_transfer
 thread_duration_send_transfer= threading.Thread(target = duration_send_transfer)
 thread_duration_send_transfer.start()
-app.run(threaded=True, host = '0.0.0.0', port = 5003)
+app.run(threaded=True, host = '0.0.0.0', port = 5002)
 
 thread_milestone_start_index.join()
 thread_duration_send_transfer.join()
