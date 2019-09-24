@@ -4,6 +4,7 @@ from flask import Flask, render_template, request
 from apps.jobs import milestone_start_index, duration_send_transfer
 from config.config_logging import LOG_MILESTONE_START_INDEX, LOG_DURATION_SEND
 from deps.send_transfer import send_transaction
+from apps.logging.py import read_log
 
 app = Flask(__name__)
 
