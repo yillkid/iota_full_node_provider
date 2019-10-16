@@ -11,7 +11,7 @@ def sort_milestone_start_index(list_nodes):
 
             # Get milestoneStartIndex
             milestone_start_index = get_milestoneStartIndex(obj.rstrip())
-            if milestone_start_index == 0:
+            if milestone_start_index <= 0:
                 continue
 
             new_dict['datetime'] = datetime.datetime.now().strftime("%Y-%m-%d-%H-%M")
