@@ -1,3 +1,14 @@
+import os
+
+def append_log(content, file_path):
+    if not os.path.isfile(file_path):
+        f = open(file_path, "w")
+        f.close()
+
+    f = open(file_path, "a")
+    f.write(str(content) + "\n")
+    f.close()
+
 def update_log(list_content, file_path):
     f = open(file_path, "w")
     for obj in list_content:

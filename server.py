@@ -1,7 +1,7 @@
 import threading
 import json
 from flask import Flask, render_template, request
-from apps.jobs import milestone_start_index, duration_send_transfer
+from apps.jobs import milestone_start_index, duration_send_transfer, add_txn_to_queue
 from config.config_logging import LOG_MILESTONE_START_INDEX, LOG_DURATION_SEND
 from deps.send_transfer import send_transaction
 from apps.logging import read_log
@@ -40,6 +40,17 @@ def send_transfer():
         hash_boundle = send_transaction(node_url, address, tag, messages, values)
     
         return hash_boundle
+
+@app.route('/send_message' ,methods=['POST'])
+def send_message():
+    if request.method == 'POST':
+        request_data = request.get_data()
+
+        # Job for add the transaction to job queue
+        thread_add_txn_to_queue = threading.Thread(target = add_txn_to_queue, args=(request_data,))
+        thread_add_txn_to_queue.start()
+
+        return "0"
 
 # Job for fetch and sort milestone start index
 thread_milestone_start_index = threading.Thread(target = milestone_start_index)
